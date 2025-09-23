@@ -1,0 +1,24 @@
+{
+  "Programming": {
+    "General": ["Python", "C++", "Rust", "JavaScript"],
+    "Web Development": ["React", "Vue", "Django", "Node.js"],
+    "DevOps": ["Docker", "Kubernetes", "Terraform"]
+  },
+  "Machine Learning": {
+    "Deep Learning": ["Neural Networks", "CNNs", "Transformers"],
+    "NLP": ["Text Classification", "Named Entity Recognition"],
+    "Computer Vision": ["Object Detection", "OCR"]
+  },
+  "Mathematics": {
+    "Core Math": ["Algebra", "Calculus", "Probability"],
+    "Optimization": ["Linear Programming", "Game Theory"]
+  },
+  "Medical": {
+    "General Medicine": ["Anatomy", "Pathology", "Pharmacology"],
+    "AI in Healthcare": ["Medical Imaging", "Diagnosis Prediction"]
+  },
+  "Legal": {
+    "Corporate Law": ["Intellectual Property", "Contract Law"],
+    "AI in Law": ["Legal Document Analysis", "AI Ethics in Law"]
+  }
+}

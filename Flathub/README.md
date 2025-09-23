@@ -1,0 +1,1 @@
+python Download-Flathub-Refs.py --refs-file refs/Game.refs --out Game
