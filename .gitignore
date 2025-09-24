@@ -1,14 +1,28 @@
+# Ignore files and directories related to various datasets and projects
 /.idea/
+
+# Stack Overflow
 /Stackoverflow/Stack-Overflow-Query.jsonl
+
+# Internet Archive
 /Internet-Archive/internet_archive.json
-/Gutenberg/Gutenberg-Books-Tokenized.jsonl
-/Gutenberg/gutendex_books.json
+/Internet-Archive/Query-Wayback/snapshots.json
+
+# Google
 /Google/google_datasets.json
 /Google/search_topics.json
 /Google/Datasets/
+
+# Flatpak/Flathub
 /Flathub/flatpakrefs/
 /Flathub/Game/
 /Flathub/refs/
+
+# Circl
 /Circl/cybersecurity_datasets.json
+
+# Project Gutenberg
 /Gutenberg/texts/
 /Gutenberg/Gutenberg-Books/
+/Gutenberg/gutendex_books.json
+/Gutenberg/Gutenberg-Books-Tokenized.jsonl
